@@ -17,6 +17,8 @@ rag:
   topic: "climate change"
   batch_size: 5
   embedding_model: sentence-transformers/all-MiniLM-L6-v2
+  llm_model: mistral
+  temperature: 0.3
   top_k: 5
   chunk_size: 500
   chunk_overlap: 50
