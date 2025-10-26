@@ -1,0 +1,20 @@
+# ───────────────────────────────
+# Project Settings - rag-research-assistant
+# ───────────────────────────────
+project:
+  name: RAG Research Assistant
+  version: 1.0.0
+  author: Idris Ihs
+
+paths:
+  raw: data/raw
+  interim: data/interim
+  processed: data/processed
+  logs: logs
+  vector_store: data/processed/vector_store
+
+rag:
+  embedding_model: sentence-transformers/all-MiniLM-L6-v2
+  top_k: 5
+  chunk_size: 500
+  chunk_overlap: 50

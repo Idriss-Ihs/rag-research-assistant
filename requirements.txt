@@ -1,0 +1,26 @@
+# Core
+numpy
+pandas
+tqdm
+pyyaml
+
+# Text & NLP
+sentence-transformers
+langchain
+faiss-cpu
+chromadb
+openai
+tiktoken
+
+# PDF & file handling
+PyPDF2
+unstructured
+pdfplumber
+
+# App
+streamlit
+matplotlib
+plotly
+
+# Utilities
+loguru
