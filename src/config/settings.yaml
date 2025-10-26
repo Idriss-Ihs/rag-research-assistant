@@ -14,6 +14,8 @@ paths:
   vector_store: data/processed/vector_store
 
 rag:
+  topic: "climate change"
+  batch_size: 5
   embedding_model: sentence-transformers/all-MiniLM-L6-v2
   top_k: 5
   chunk_size: 500

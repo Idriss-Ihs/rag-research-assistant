@@ -16,6 +16,7 @@ tiktoken
 PyPDF2
 unstructured
 pdfplumber
+feedparser
 
 # App
 streamlit
