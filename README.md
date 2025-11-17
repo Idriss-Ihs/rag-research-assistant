@@ -55,3 +55,15 @@ It is designed for **research applications**, allowing users to query scientific
         chunk_size: 500
         temperature: 0.3
     Switch backend or model here — no code changes needed.
+
+<p align="center">
+  <img src="assets\rag_answer.png" width="800" alt="CityPulse Dashboard Preview">
+  <br>
+  <em>Example of rag answer</em>
+</p>
+
+<p align="center">
+  <img src="assets/original_paper.png" width="800" alt="CityPulse Dashboard Preview">
+  <br>
+  <em>The paper used to answer the question</em>
+</p>
